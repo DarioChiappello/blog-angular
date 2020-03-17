@@ -1,6 +1,11 @@
-# AprendiendoAngular
+# Blog-Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+
+# Backend
+
+https://github.com/DarioChiappello/nodejs-blog-backend
+MongoDB
 
 ## Development server
 
